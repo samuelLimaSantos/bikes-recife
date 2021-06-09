@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
   mapMarkerContainer: {
     width: 110,
     height: 70,
-    // backgroundColor: '#F2ECC2',
     padding: 2,
     flexDirection: 'column',
     borderRadius: 8,
